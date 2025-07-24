@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "11otE91CYi/79kt6wmJqJCsOhuC90qVsgcskjGAOzHw=",
+  "Source": "Portfolio.API",
+  "BasePath": "_content/Portfolio.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Portfolio.API\\wwwroot",
+      "Source": "Portfolio.API",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\",
+      "BasePath": "_content/Portfolio.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\courses.png",
+      "SourceId": "Portfolio.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\",
+      "BasePath": "_content/Portfolio.API",
+      "RelativePath": "Images/courses#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oahe8qre6k",
+      "Integrity": "EC+gNpgfXdhTl2ReuVovHB+deFI9vepnhoglEpxAcqk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\courses.png"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\recepies.png",
+      "SourceId": "Portfolio.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\",
+      "BasePath": "_content/Portfolio.API",
+      "RelativePath": "Images/recepies#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ibshbdu6ge",
+      "Integrity": "nkhyV0j4oRZTWBJPOZNterY7pLENdXeHlWCL2nC2IOc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\recepies.png"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\uscellular.png",
+      "SourceId": "Portfolio.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\",
+      "BasePath": "_content/Portfolio.API",
+      "RelativePath": "Images/uscellular#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a30vwvutgc",
+      "Integrity": "ytG6HnCqyEGk6ECKRUF9w8G4im8GYoX/0kFCe1pjOJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\uscellular.png"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\workers.png",
+      "SourceId": "Portfolio.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\",
+      "BasePath": "_content/Portfolio.API",
+      "RelativePath": "Images/workers#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pq0pl7pe8n",
+      "Integrity": "/24Fi9k6T4WKLJNIqnLkyhn87C5bXfw2rNw9ICnzBuc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\workers.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/courses.oahe8qre6k.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\courses.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EC+gNpgfXdhTl2ReuVovHB+deFI9vepnhoglEpxAcqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 13:28:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oahe8qre6k"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/courses.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EC+gNpgfXdhTl2ReuVovHB+deFI9vepnhoglEpxAcqk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/courses.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\courses.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EC+gNpgfXdhTl2ReuVovHB+deFI9vepnhoglEpxAcqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 13:28:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EC+gNpgfXdhTl2ReuVovHB+deFI9vepnhoglEpxAcqk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/recepies.ibshbdu6ge.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\recepies.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1399018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nkhyV0j4oRZTWBJPOZNterY7pLENdXeHlWCL2nC2IOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 13:48:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ibshbdu6ge"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/recepies.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nkhyV0j4oRZTWBJPOZNterY7pLENdXeHlWCL2nC2IOc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/recepies.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\recepies.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1399018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nkhyV0j4oRZTWBJPOZNterY7pLENdXeHlWCL2nC2IOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 13:48:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nkhyV0j4oRZTWBJPOZNterY7pLENdXeHlWCL2nC2IOc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/uscellular.a30vwvutgc.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\uscellular.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ytG6HnCqyEGk6ECKRUF9w8G4im8GYoX/0kFCe1pjOJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 10:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a30vwvutgc"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/uscellular.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ytG6HnCqyEGk6ECKRUF9w8G4im8GYoX/0kFCe1pjOJc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/uscellular.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\uscellular.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ytG6HnCqyEGk6ECKRUF9w8G4im8GYoX/0kFCe1pjOJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 10:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ytG6HnCqyEGk6ECKRUF9w8G4im8GYoX/0kFCe1pjOJc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/workers.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\workers.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/24Fi9k6T4WKLJNIqnLkyhn87C5bXfw2rNw9ICnzBuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 00:45:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/24Fi9k6T4WKLJNIqnLkyhn87C5bXfw2rNw9ICnzBuc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/workers.pq0pl7pe8n.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\workers.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/24Fi9k6T4WKLJNIqnLkyhn87C5bXfw2rNw9ICnzBuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 00:45:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pq0pl7pe8n"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/workers.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/24Fi9k6T4WKLJNIqnLkyhn87C5bXfw2rNw9ICnzBuc="
+        }
+      ]
+    }
+  ]
+}

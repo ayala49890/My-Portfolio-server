@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\courses.png",
+      "PackagePath": "staticwebassets\\Images\\courses.png"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\recepies.png",
+      "PackagePath": "staticwebassets\\Images\\recepies.png"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\uscellular.png",
+      "PackagePath": "staticwebassets\\Images\\uscellular.png"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\AyalaPortfolio\\server\\Portfolio.API\\wwwroot\\Images\\workers.png",
+      "PackagePath": "staticwebassets\\Images\\workers.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Portfolio.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Portfolio.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Portfolio.API.props",
+      "PackagePath": "build\\Portfolio.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Portfolio.API.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Portfolio.API.props",
+      "PackagePath": "buildTransitive\\Portfolio.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
